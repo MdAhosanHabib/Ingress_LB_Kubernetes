@@ -1,7 +1,7 @@
 
 ![Ingress_Kubernetes](https://github.com/MdAhosanHabib/Ingress_LB_Kubernetes/assets/43145662/296644ba-d950-4bc5-ada6-e96b5d3ec926)
 
-# Conatainer image push then Ingress & Load Balancing in Kubernetes with FastAPI in Private Data Center
+# Container image push then Ingress & Load Balancing in Kubernetes with FastAPI in Private Data Center
 This repository provides a guide on setting up a FastAPI application in a Kubernetes cluster with Ingress and load balancing using HAProxy.
 
 ## Prerequisites
